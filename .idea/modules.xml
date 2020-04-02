@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gmail-1010.iml" filepath="$PROJECT_DIR$/gmail-1010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-1010.iml" filepath="$PROJECT_DIR$/gmall-1010.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-admin/gmall-admin.iml" filepath="$PROJECT_DIR$/gmall-admin/gmall-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-oms/gmall-oms.iml" filepath="$PROJECT_DIR$/gmall-oms/gmall-oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-pms/gmall-pms.iml" filepath="$PROJECT_DIR$/gmall-pms/gmall-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-sms/gmall-sms.iml" filepath="$PROJECT_DIR$/gmall-sms/gmall-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-ums/gmall-ums.iml" filepath="$PROJECT_DIR$/gmall-ums/gmall-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-wms/gmall-wms.iml" filepath="$PROJECT_DIR$/gmall-wms/gmall-wms.iml" />
     </modules>
   </component>
 </project>

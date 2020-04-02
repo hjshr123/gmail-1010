@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.atguigu</groupId>
-    <artifactId>gmail-1010</artifactId>
+    <artifactId>gmall-1010</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <description>谷粒商城</description>
     <packaging>pom</packaging>
